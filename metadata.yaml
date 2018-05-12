@@ -1,0 +1,32 @@
+_repo: To-Win-the-Love-He-SoughtThe-Great-Awakening--Volume-3_33988
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oppenheim, E. Phillips (Edward Phillips)
+    aliases:
+    - Oppenheim, Edward Phillips
+    - Partridge, Anthony
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '594'
+    url: http://www.gutenberg.org/2009/agents/594
+    wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
+description: ''
+gutenberg_issued: '2010-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+title: 'To Win the Love He Sought
+
+  The Great Awakening: Volume 3'
+url: http://www.gutenberg.org/ebooks/33988
