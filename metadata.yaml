@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/594
     wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33988#To-Win-the-Love-He-SoughtThe-Great-Awakening--Volume-3
 gutenberg_issued: '2010-09-23'
 gutenberg_type: Text
 identifiers:
